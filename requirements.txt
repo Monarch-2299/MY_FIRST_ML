@@ -1,18 +1,18 @@
-tensorflow
+
 pandas 
 
-mlflow==2.2.2
-notebook
+
+
 numpy
-matplotlib
+
 seaborn
 
 
 
 
-joblib
 
 
-Flask
-Flask-Cors
+
+
+
 -e .
